@@ -22,7 +22,7 @@ java -jar image-encryption.jar ~/Pictures/taj_mahal.jpg ~/Pictures/joker.jpg -O 
 ## Showcase
 Encrypted image of `samples/taj_mahal.jpg` by using `samples/eiffel_tower.jpg` as a key
 Notice how the program matches the dimensions of key image to that of main image
-![Taj Mahal image Encrypted using the Eiffel Tower image. ](/home/aquib/IdeaProjects/image-encryption/samples/new_wonder.png "Taj Mahal image Encrypted using the Eiffel Tower image. ")
+![Taj Mahal image Encrypted using the Eiffel Tower image. ](samples/new_wonder.png)
 
 Encrypted image of `samples/hagia_sophia.jpg` using `samples/nasir_al_mulk.jpg` as key.
 
