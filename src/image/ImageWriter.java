@@ -1,2 +1,4 @@
-package image;public class ImageWriter {
+package image;
+
+public class ImageWriter {
 }
